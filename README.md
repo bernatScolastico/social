@@ -20,5 +20,5 @@
 
 5 Quando il **Client** invierà una stringa del formato */close* esso verrà *disconnesso* dalla rete.
 
-
+----
 ### *PROTOCOLLI*
