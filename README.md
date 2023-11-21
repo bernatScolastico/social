@@ -22,3 +22,10 @@
 
 ----
 ### *PROTOCOLLI*
+*Tutti i comandi del protocollo devono essere utilizzati nel terminale solo e soltanto dopo aver instaurato una connessione con un server.
+
+- Il Server utilizza il formato **“@USERNAME 'messaggio'”** per inviare un messaggio privato ad un terminale, altrimenti verrà inviato in broadcast a tutti i terminali connessi;
+- Digitare **"/list"** per ottenere la lista di indirizzi ip disponibili connessi al Server.
+- Digitare **"/help"** per visualizzare la documentazione di tutti i protocolli.
+- dIGITARE **"/close"** per chiudere la connnessione, il Server invierà a tutti i Client il messaggio di disconnessione del Client con il formato *" 'NomeClient' si è disconnesso dalla chat"*. 
+
