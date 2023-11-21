@@ -10,7 +10,7 @@
 ---
  ### *FUNZIONAMENTO DEL CLIENT*
 
-Il **Client** come prima cosa prende l'*indirizzo IP* del **Server** (inserito dall'utente), se l'indirizzo esiste o è disponibile allora il **Client** si connette al **Server**.
+1 Il **Client** come prima cosa prende l'*indirizzo IP* del **Server** (inserito dall'utente), se l'indirizzo esiste o è disponibile allora il **Client** si connette al **Server**.
 
 2 *Dopo l'avvenuta connessione*, il **Server** invierà la lista dei Client presenti nella connessione.
 
